@@ -1,0 +1,39 @@
+body {
+  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pf-misctexture01-tong-019-chim-02_1_3.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=2c732ce5066026b4fe5ca5d78abbe706);
+  color: black;
+}
+img {
+  display: block;
+}
+/* .form {
+  display: flex;
+  justify-content: center;
+} */
+#get-country {
+  display: block;
+  justify-content: center;
+  padding: 10px;
+  /* margin-right: 10px; */
+  width: 400px;
+  margin: 0 auto;
+}
+#country-box {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 500px;
+}
+#country-box__inform {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: start;
+  font-size: 20px;
+}
+.country-box__inform__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.banner {
+  margin-left: 20px;
+}
